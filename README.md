@@ -4,4 +4,4 @@ Repositório para estudos sobre ciência de dados, utilizando algumas biblioteca
 
 ## Ambiente
 
-Estou utilizando o google colab para fazer os scripts, mas também poderia usar o Ju
+Estou utilizando o google colab para fazer os scripts, mas também poderia usar o Jup
